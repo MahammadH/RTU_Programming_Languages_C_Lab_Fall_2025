@@ -30,5 +30,5 @@ int main() {
     }
 
     free(students);
-    return 0;
+     return 0;
 }
